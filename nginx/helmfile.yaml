@@ -1,0 +1,3 @@
+releases:
+  - chart: ../charts/nginx-15.1.1.tgz
+    name: nginx
